@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-05T11:28:19.464Z</updated>
+  <updated>2020-04-05T14:08:45.024Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Hexo+GitHub搭建个人博客</title>
+    <link href="http://yoursite.com/2020/04/05/%E4%BD%BF%E7%94%A8Hexo-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2020/04/05/%E4%BD%BF%E7%94%A8Hexo-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-04-05T14:07:45.000Z</published>
+    <updated>2020-04-05T14:08:45.024Z</updated>
+    
+    <content type="html"><![CDATA[<p>Git安装<br><a href="https://git-scm.com/download/win" target="_blank" rel="noopener">Git安装包</a><br>Node.js安装<br><a href="http://nodejs.cn/download/" target="_blank" rel="noopener">Node.js安装包</a><br>本博客使用主题<br><a href="https://github.com/Fechin/hexo-theme-diaspora" target="_blank" rel="noopener">Hexo-theme-diaspora</a><br>搭建教程<br><a href="https://www.cnblogs.com/xrblog/p/11585885.html" target="_blank" rel="noopener">使用hexo+github搭建个人博客</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Git安装&lt;br&gt;&lt;a href=&quot;https://git-scm.com/download/win&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Git安装包&lt;/a&gt;&lt;br&gt;Node.js安装&lt;br&gt;&lt;a href=&quot;http://nodejs.cn/d
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

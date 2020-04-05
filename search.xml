@@ -18,4 +18,13 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>使用Hexo+GitHub搭建个人博客</title>
+    <url>/2020/04/05/%E4%BD%BF%E7%94%A8Hexo-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>Git安装<br><a href="https://git-scm.com/download/win" target="_blank" rel="noopener">Git安装包</a><br>Node.js安装<br><a href="http://nodejs.cn/download/" target="_blank" rel="noopener">Node.js安装包</a><br>本博客使用主题<br><a href="https://github.com/Fechin/hexo-theme-diaspora" target="_blank" rel="noopener">Hexo-theme-diaspora</a><br>搭建教程<br><a href="https://www.cnblogs.com/xrblog/p/11585885.html" target="_blank" rel="noopener">使用hexo+github搭建个人博客</a></p>
+]]></content>
+      <tags>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
 </search>
