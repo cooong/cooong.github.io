@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-05T14:08:45.024Z</updated>
+  <updated>2020-04-06T07:39:01.229Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/04/05/%E4%BD%BF%E7%94%A8Hexo-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2020/04/05/%E4%BD%BF%E7%94%A8Hexo-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-04-05T14:07:45.000Z</published>
-    <updated>2020-04-05T14:08:45.024Z</updated>
+    <updated>2020-04-06T07:39:01.229Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Git安装<br><a href="https://git-scm.com/download/win" target="_blank" rel="noopener">Git安装包</a><br>Node.js安装<br><a href="http://nodejs.cn/download/" target="_blank" rel="noopener">Node.js安装包</a><br>本博客使用主题<br><a href="https://github.com/Fechin/hexo-theme-diaspora" target="_blank" rel="noopener">Hexo-theme-diaspora</a><br>搭建教程<br><a href="https://www.cnblogs.com/xrblog/p/11585885.html" target="_blank" rel="noopener">使用hexo+github搭建个人博客</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Git安装<br><a href="https://git-scm.com/download/win" target="_blank" rel="noopener">Git安装包</a><br>Node.js安装<br><a href="http://nodejs.cn/download/" target="_blank" rel="noopener">Node.js安装包</a><br>本博客使用主题<br><a href="https://github.com/pcrab/hexo-theme-quark" target="_blank" rel="noopener">hexo-theme-quark</a><br>搭建教程<br><a href="https://www.cnblogs.com/xrblog/p/11585885.html" target="_blank" rel="noopener">使用hexo+github搭建个人博客</a></p>]]></content>
     
     <summary type="html">
     
