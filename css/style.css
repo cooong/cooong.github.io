@@ -10,10 +10,10 @@
   color: #d14e4e;
 }
 #site_title::before {
-  content: "< ";
+  content: " ";
 }
 #site_title::after {
-  content: " >";
+  content: " ";
 }
 .tag_page_title {
   font: bold 3.5em sans-serif;

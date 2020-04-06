@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>
-    Pcrab  - search 
+    Cong  - search 
   </title>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -279,8 +279,8 @@ mjx-container + br {
 
 <body>
   <div class="title">
-  <img class="title_img" src="https://pcrab.ml/images/icon.png"/><br>
-  <p id="site_title">&nbspCong 的日常&nbsp</p>
+  <img class="title_img" src="/images/icon.png"/><br>
+  <p id="site_title">&nbspCong' Blog&nbsp</p>
 </div>
 
   <div class="navi">
@@ -294,30 +294,28 @@ mjx-container + br {
 
 
   <div class="main">
-    <post>
+    <h2>Search</h2>
 
-  <br/><br/>
-
-  <div id="page_content">
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">
-  </div>
-
-  <br/><br/><br/>
-
-  <div id="top">
-    <a href="#">▲</a>
-    <a href="#footer">▼</a>
-</div>
+<form class="site-search-form">
+    <input type="text" id="local-search-input" class="st-search-input" />
+</form>
+<div id="local-search-result" class="local-search-result-cls"></div>
 
 
-</post>
+<script src="/js/search.js"></script>
+
+<script type="text/javascript" id="local.search.active">
+  var inputArea       = document.querySelector("#local-search-input");
+  getSearchFile();
+  inputArea.onkeydown = function(){ if(event.keyCode == 13) return false }
+</script>
 
   </div>
 
   <foot id="footer">
   <hr class="boldline"/>
   <p class="center font">
-    &copy - <a href="https://pcrab.ml" target="_blank" rel="noopener">Cong</a> -  2019 -  2020 - Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">hexo</a>  Themed by <a href="https://github.com/pcrab/hexo-theme-quark" target="_blank" rel="noopener"> quark </a> 
+    &copy <a href="">Cong</a>&nbsp;&nbsp;&nbsp; 2019 -  2020 &nbsp;&nbsp;&nbsp; Powered by <a href="https://hexo.io/">hexo</a>  &nbsp; Themed by <a href="https://github.com/pcrab/hexo-theme-quark" target="_blank" rel="noopener"> quark </a> 
   </p>
   <br/>
 </foot>
