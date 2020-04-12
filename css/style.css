@@ -51,6 +51,9 @@ foot a {
   height: 0.1em;
   background-color: #d3d3d3;
 }
+#hitokoto {
+  width: 95%;
+}
 .post_title {
   font: bold 2em "Noto Sans SC", sans-serif;
   text-align: center;
